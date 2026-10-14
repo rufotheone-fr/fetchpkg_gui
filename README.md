@@ -16,8 +16,9 @@ This interface simplifies the download process of Sony PlayStation 4 and PlaySta
 ## Prerequisites
 
 To run this graphical interface, you must ensure that:
-1. The official **`fetchpkg.exe`** binary is placed inside the exact same folder as this GUI.
-2. The mandatory **`libcurl-x64.dll`** dependency is present alongside it.
+1. Download fetchpkg by ps5-payload-dev from : https://github.com/ps5-payload-dev/fetchpkg (Win-x86_64.zip)
+2. The official **`fetchpkg.exe`** binary is placed inside the exact same folder as this GUI.
+3. The mandatory **`libcurl-x64.dll`** dependency is present alongside it.
 
 ## How to Compile
 
