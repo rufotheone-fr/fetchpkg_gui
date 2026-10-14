@@ -8,11 +8,9 @@ This interface simplifies the download process of Sony PlayStation 4 and PlaySta
 
 ## Features
 
-- **Standalone Single File:** Compiles into a single independent `.exe` binary with zero messy DLL folder clutter.
 - **Smart Link Conversion:** Automatically detects and converts PlayStation update links (`*_sc.pkg` or `*.crc`) from ProsperoPatches or PSN straight into a valid `*.json` manifest URL when starting a download.
 - **Dynamic Theme Switcher:** Easily toggle between Dark Mode and Light Mode instantly using the built-in interface toggle switch (`☀️` / `🌙`).
 - **Dual-Language Support:** On-the-fly interface translation switching between French and English.
-- **Real-Time Feed:** Extracts the exact decimal download percentage and provides an accurate Time Remaining (ETA) countdown ticker.
 - **Isolated Error Logs:** Keeps the main screen compact and minimal. A clean, independent terminal log window triggers and pops up automatically *only* if `fetchpkg.exe` encounters an error or fails.
 
 ## Prerequisites
