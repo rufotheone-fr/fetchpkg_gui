@@ -4,6 +4,8 @@ A lightweight, multi-lingual graphical user interface (GUI) for the official `fe
 
 This interface simplifies the download process of Sony PlayStation 4 and PlayStation 5 game updates from official servers by wrapping the core tool features into a clean, standalone, and single-file application.
 
+![fetchpkg GUI](screenshots/screenshot_dark.png)
+
 ## Features
 
 - **Standalone Single File:** Compiles into a single independent `.exe` binary with zero messy DLL folder clutter.
