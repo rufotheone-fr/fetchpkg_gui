@@ -28,6 +28,6 @@ You can compile this program natively on any Windows machine using the built-in 
 & "\$env:SystemRoot\Microsoft.NET\Framework64\v4.0.30319\vbc.exe" /target:winexe /win32icon:fetch.ico /out:fetchpkg_GUI.exe gui.vb
 ```
 
-## 📝 License
+## License
 
 This interface is designed to support the development community and is shared under the same spirit as the core open-source projects it interacts with.
