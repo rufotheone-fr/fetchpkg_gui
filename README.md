@@ -21,8 +21,8 @@ To run this graphical interface, you must ensure that:
 3. The mandatory **`libcurl-x64.dll`** dependency is present alongside it.
 
 ## How to
-1. Go to prosperopatches dot com and search for your game (double check the PPSA code and required firmware)
-2. right click on the DP or CRC button and copy the link
+1. Go to prosperopatches dot com and search for the right update for your game (double check the PPSA code and required firmware)
+2. Right click on the DP or CRC button and copy the link
 3. Paste it within fetchpkg GUI
 4. Wait for the operation to finish
 5. Drop your update to your PS5 (through FTP or external drive for example)
