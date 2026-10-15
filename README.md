@@ -20,6 +20,14 @@ To run this graphical interface, you must ensure that:
 2. The official **`fetchpkg.exe`** binary is placed inside the exact same folder as this GUI.
 3. The mandatory **`libcurl-x64.dll`** dependency is present alongside it.
 
+## How to
+1. Go to prosperopatches dot com and search for your game (double check the PPSA code and required firmware)
+2. right click on the DP or CRC button and copy the link
+3. Paste it within fetchpkg GUI
+4. Wait for the operation to finish
+5. Drop your update to your PS5 (through FTP or external drive for example)
+6. Install it with the PKG installer of the Debug Settings or use an app like PKG Manager by itsPLK (https://github.com/itsPLK/ps5-pkg-manager)
+
 ## How to Compile
 
 You can compile this program natively on any Windows machine using the built-in .NET Framework compiler via PowerShell. Open a terminal in your source directory and run:
